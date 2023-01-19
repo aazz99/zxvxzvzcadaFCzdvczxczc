@@ -925,7 +925,7 @@ def code_run(text,chat,bot,lang_id):
 
 g_usvl = ''
 test_usvl = ''
-auth = "iwpahdykrlazcqifmyjxshkmzdrxhmgp"
+auth = "eyzcgfelfohmjajctvmwjfhosdizfnhg"
 #توکن
 #Token
 bot = Bot(auth)
